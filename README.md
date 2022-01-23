@@ -22,3 +22,6 @@ Mock up:
 
 ![image](https://user-images.githubusercontent.com/97055456/150701536-bf6d0ae7-6d49-42da-80f5-5351bd0be1cd.png)
 
+Link to deployed app:
+
+https://vrentadax.github.io/Challenge-1/
