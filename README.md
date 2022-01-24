@@ -24,4 +24,4 @@ Mock up:
 
 Link to deployed app:
 
-https://vrentadax.github.io/Challenge-1/
+https://vrentadax.github.io/Horiseon/
